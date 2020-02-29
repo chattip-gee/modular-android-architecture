@@ -1,0 +1,3 @@
+rootProject.name='Modular Android App'
+include ':app'
+include ':news_feature'
